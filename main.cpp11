@@ -65,5 +65,5 @@ int main() {
     cout << "\nTop student: " << names[topStudentIndex] << endl;
 
     return 0;
-}//use table if you can, real subject name with <=100 marks 
+}
     
